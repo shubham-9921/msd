@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+    background-color: #dbe6fd;
+}
+
+main {
+    background-color: #a7c4bc;
+    padding: 40px 30px;
+    border-radius: 25px;
+    margin: 0px 20px;
+
+}
+
+.info {
+    font-family: 'Mate SC', serif;
+    font-size: 2rem;
+
+}
+
+.indcap {
+    font-size: 3rem;
+    font-family: 'Mate SC', serif;
+    font-weight: bolder;
+
+}
+
+.image {
+    position: relative;
+    width: 50%;
+    height: 60%;
+    border-radius: 100%;
+}
+
+.name-sec {
+    font-family: 'Mate SC', serif;
+    font-size: 30px;
+
+}
+
+.birth-date {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.title {
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 50px;
+    font-weight: 2rem;
+}
+
+
+.points-container {
+    margin: 100px 0px;
+
+
+    text-align: justify;
+
+}
+
+.point {
+    margin: 25px;
+    font-size: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+.footer {
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 25px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #bf1363;
+}
+
+;
+
+
+/* for points : font-family: 'Viaoda Libre', cursive; */
+/* name : font-family: 'Mate SC', serif; */
+/* birth and title : font-family: 'Source Sans Pro', sans-serif; */
